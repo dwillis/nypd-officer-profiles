@@ -243,13 +243,10 @@ function parseDiscipline(data) {
 
 function parseDisciplineEntry(data) {
   return data.map(charge => {
-    let penalty = charge.GroupName.split(',')[1].trim()
+    let penalties = charge.GroupName.split(',').slice(1).join()
 
-    // cleanup formatting in penalty
-    penalty = penalty.replace('&nbsp;',' ')
-    penalty = penalty.replace('<i>','')
-    penalty = penalty.replace('</div>','')
-    penalty = penalty.replace('</i>','')
+    // removing markup and label from penalties
+    penalties = penalties.replace( /(<([^>]+)>)/ig, '').replace(/&nbsp;/ig,' ').replace('Penalty: ','').replace(') )','))').trim()
 
     let entry = findValues({
       items: charge.Columns,
@@ -260,8 +257,8 @@ function parseDisciplineEntry(data) {
         description: 'ce5bb063-0f02-46ab-888a-b96c598e3c71'
       }
     })
-    if (penalty) {
-      entry.penalty = penalty
+    if (penalties) {
+      entry.penalties = penalties
     }
     return entry
   })
