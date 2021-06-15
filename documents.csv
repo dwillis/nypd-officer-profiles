@@ -100,7 +100,6 @@ taxid,date,url
 938409,6/28/2016,https://oip.nypdonline.org/files/938409_06282016_2016104.pdf
 948571,7/18/2018,https://oip.nypdonline.org/files/948571_07182018_2018058.pdf
 923791,6/7/2016,https://oip.nypdonline.org/files/923791_06072016_2016106.pdf
-936537,8/30/2018,https://oip.nypdonline.org/files/936537_08302018_2018062.pdf
 932592,1/7/2016,https://oip.nypdonline.org/files/932592_01072016_2016102.pdf
 952713,4/14/2020,https://oip.nypdonline.org/files/952713_04142020_2020036.pdf
 925246,2/29/2016,https://oip.nypdonline.org/files/925246_02292016_2016018.pdf
@@ -113,6 +112,7 @@ taxid,date,url
 938513,9/19/2017,https://oip.nypdonline.org/files/938513_09192017_2017013.pdf
 948997,6/9/2017,https://oip.nypdonline.org/files/948997_06092017_2017112.pdf
 948997,7/28/2016,https://oip.nypdonline.org/files/948997_07282016_2016108.pdf
+936041,1/23/2017,https://oip.nypdonline.org/files/936041_01232017_2017014.pdf
 938557,5/22/2020,https://oip.nypdonline.org/files/938557_05222020_2020043.pdf
 949023,2/17/2016,https://oip.nypdonline.org/files/949023_02172016_2016111.pdf
 944594,4/15/2020,https://oip.nypdonline.org/files/944594_04152020_2020004.pdf
@@ -204,7 +204,6 @@ taxid,date,url
 935245,5/25/2016,https://oip.nypdonline.org/files/935245_05252016_2016026.pdf
 955123,4/26/2019,https://oip.nypdonline.org/files/955123_04262019_2019054.pdf
 941229,3/22/2016,https://oip.nypdonline.org/files/941229_03222016_2016050.pdf
-946759,10/13/2016,https://oip.nypdonline.org/files/946759_10132016_2016089.pdf
 938942,3/18/2016,https://oip.nypdonline.org/files/938942_03182016_2016078.pdf
 941288,10/10/2017,https://oip.nypdonline.org/files/941288_10102017_2017111.pdf
 927135,1/23/2017,https://oip.nypdonline.org/files/927135_01232017_2017078.pdf
@@ -218,12 +217,10 @@ taxid,date,url
 947807,7/15/2019,https://oip.nypdonline.org/files/947807_07152019_2019042.pdf
 935284,5/27/2016,https://oip.nypdonline.org/files/935284_05272016_2016120.pdf
 950869,8/30/2018,https://oip.nypdonline.org/files/950869_08302018_2018028.pdf
-899574,3/5/2018,https://oip.nypdonline.org/files/899574_03052018_2018029.pdf
 928771,8/10/2016,https://oip.nypdonline.org/files/928771_08102016_2016125.pdf
 952007,5/17/2019,https://oip.nypdonline.org/files/952007_05172019_2019023.pdf
 950886,2/18/2016,https://oip.nypdonline.org/files/950886_02182016_2016126.pdf
 939039,7/28/2016,https://oip.nypdonline.org/files/939039_07282016_2016079.pdf
-946697,3/12/2020,https://oip.nypdonline.org/files/946697_03122020_2020013.pdf
 921071,3/2/2016,https://oip.nypdonline.org/files/921071_03022016_2016031.pdf
 955212,10/6/2017,https://oip.nypdonline.org/files/955212_10062017_2017036.pdf
 925787,12/14/2017,https://oip.nypdonline.org/files/925787_12142017_2017071.pdf
@@ -369,7 +366,6 @@ taxid,date,url
 929303,9/25/2018,https://oip.nypdonline.org/files/929303_09252018_2018048.pdf
 955637,1/14/2019,https://oip.nypdonline.org/files/955637_01142019_2019018.pdf
 940834,7/22/2018,https://oip.nypdonline.org/files/940834_07222018_2018047.pdf
-921839,7/18/2016,https://oip.nypdonline.org/files/921839_07182016_2016054.pdf
 945080,5/22/2020,https://oip.nypdonline.org/files/945080_05222020_2020037.pdf
 931386,4/21/2020,https://oip.nypdonline.org/files/931386_04212020_2020027.pdf
 931399,7/13/2017,https://oip.nypdonline.org/files/931399_07132017_2017104.pdf

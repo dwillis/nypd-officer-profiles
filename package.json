@@ -11,5 +11,8 @@
     "async-scheduler": "^1.4.3",
     "d3": "^6.7.0",
     "node-fetch": "^2.6.1"
+  },
+  "dependencies": {
+    "node": "^16.1.0"
   }
 }
